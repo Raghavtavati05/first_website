@@ -1,0 +1,27 @@
+.container{
+    width: 800px;
+    height: 800px;
+    border: 2px solid grey;
+    margin-left: 400px;
+
+
+}
+.row{
+    height: 100px;
+    width: 1000px;
+}
+.black{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    float:left;
+    box-shadow: inset 11px 10px 21px -12px rgba(0,0,0,0.75);
+
+    
+}
+.white{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left;
+}
